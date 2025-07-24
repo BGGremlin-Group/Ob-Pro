@@ -1,0 +1,32 @@
+# Ignore temporary and sensitive files for Ob-Pro 5.0
+# Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA.
+
+# Cloud storage and output directories
+data/cloud/*
+data/output/*
+
+# Log files
+*.log
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Sensitive files
+*.key
+*.pem
+
+# Generated files
+*.png
+*.pdf
+*.ttf
+*.otf
+
+# Environment-specific files
+.env
+*.bak
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
