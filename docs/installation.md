@@ -15,8 +15,8 @@ This guide outlines the steps to install and set up Ob-Pro 5.0, an advanced obfu
 ## Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[YourUsername]/Ob-Pro-5.0.git
-   cd Ob-Pro-5.0
+   git clone [https://github.com/BGGremlin-Group/Ob-Pro.git](https://github.com/BGGremlin-Group/Ob-Pro/main.git
+   cd Ob-Pro
 
 
 
