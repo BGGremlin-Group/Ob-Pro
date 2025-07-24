@@ -1,0 +1,204 @@
+## BG Gremlin Group License v1.0 Non-Disclosure Agreement
+
+**Effective Date**: 2025-07-24
+
+**Parties**:
+- **Discloser**: BG Gremlin Group (“BGGG”), a Swiss GmbH operating exclusively online, contactable vis the GitHub repository at [https://github.com/BGGremlin-Group/Ob-Pro](https://github.com/BGGremlin-Group/Ob-Pro).
+- **Recipient**: Any individual or legal entity that downloads, installs, accesses, or uses the Ob-Pro 5.0 software (“Software”) (“Recipient”).
+
+**Purpose**: This Non-Disclosure Agreement (“Agreement”) governs the disclosure of Confidential Information by BGGG to Recipient solely for the purpose of evaluating, licensing, installing, or using the Software or related activities as specified in an applicable Order Form, Statement of Work (SOW), or other written agreement (“Purpose”). By downloading the Software, Recipient irrevocably agrees to be bound by this Agreement and the BGGG License v1.0 in full, as this Agreement is universally applicable to all who obtain the Software.
+
+---
+
+### 1. Definitions
+
+1.1 **Confidential Information**: Any non-public information disclosed by BGGG to Recipient, whether oral, written, electronic, or in any other form, including but not limited to:
+   - Source code, object code, algorithms, models, cryptographic keys, and security controls of the Software.
+   - Documentation, roadmaps, product plans, designs, fonts, glyphs, ASCII art, and sample data.
+   - Business information, including pricing, client lists, financials, and operational procedures.
+   - Any information marked as confidential or reasonably understood to be confidential based on the context of disclosure.
+
+1.2 **Authorized Users**: Recipient’s employees, contractors, or agents who (i) are explicitly authorized by Recipient to access Confidential Information for the Purpose, (ii) have a strict need-to-know, and (iii) are bound by written confidentiality obligations no less protective than those in this Agreement.
+
+1.3 **Software**: BGGG’s proprietary software known as Ob-Pro 5.0, including all executable code, source code (if provided), scripts, libraries, models, algorithms, documentation, configuration files, fonts, glyphs, and any updates, upgrades, patches, or enhancements provided by BGGG.
+
+1.4 **Order Form/SOW**: A written instrument (e.g., quote, proposal, or statement of work), including digital agreements, executed by both parties specifying commercial terms related to the Software or Purpose.
+
+---
+
+### 2. Obligations
+
+2.1 **Use Restrictions**: Recipient shall use Confidential Information solely for the Purpose and in accordance with any applicable Order Form/SOW and the BGGG License v1.0.
+
+2.2 **Non-Disclosure**: Recipient shall not disclose, publish, or otherwise provide Confidential Information to any third party, except to Authorized Users who are bound by written confidentiality obligations no less restrictive than those herein.
+
+2.3 **Standard of Care**: Recipient shall protect Confidential Information using at least the same degree of care it uses for its own confidential information, but in no event less than a reasonable standard of care. Recipient shall implement reasonable administrative, technical, and physical safeguards to prevent unauthorized access, use, or disclosure.
+
+2.4 **Access Control**: Recipient shall limit access to Confidential Information to Authorized Users and ensure that License Keys (e.g., credentials, tokens, or certificates controlling Software access) are stored securely and not shared publicly.
+
+2.5 **Universal Consent by Download**: By downloading the Software, Recipient irrevocably agrees to be bound by this Agreement and the BGGG License v1.0 in their entirety, including all restrictions and obligations. This Agreement is universally applicable to all individuals or entities who download the Software, regardless of whether they execute an Order Form/SOW.
+
+---
+
+### 3. Exclusions
+
+Confidential Information does not include information that:
+- (a) Is or becomes publicly available through no breach by Recipient;
+- (b) Was rightfully known to Recipient without restriction prior to disclosure by BGGG;
+- (c) Is independently developed by Recipient without use of or reference to Confidential Information; or
+- (d) Is lawfully received from a third party without restriction on disclosure.
+
+---
+
+### 4. Compelled Disclosure
+
+If Recipient is required by law, regulation, or court order to disclose Confidential Information, Recipient shall:
+- (a) Provide prompt written notice to BGGG (unless prohibited) via https://github.com/BGGremlin-Group to allow BGGG to seek protective treatment;
+- (b) Disclose only the minimum information required; and
+- (c) Cooperate with BGGG to limit the scope of disclosure.
+
+---
+
+### 5. No License or Ownership
+
+5.1 **No Rights Granted**: This Agreement does not grant Recipient any license, ownership, or rights to Confidential Information or the Software, except as expressly provided in the BGGG License v1.0 or an applicable Order Form/SOW.
+
+5.2 **BGGG Ownership**: BGGG retains all right, title, and interest in the Confidential Information, Software, and all intellectual property rights therein, including but not limited to source code, algorithms, fonts, glyphs, and designs.
+
+---
+
+### 6. Anonymity and Non-Endorsement
+
+6.1 **Non-Endorsement of Use or Misuse**: BGGG does not endorse, support, or condone any specific use or misuse of the Software or Confidential Information, whether for lawful or unlawful purposes. Recipient is solely responsible for ensuring that its use of the Software complies with all applicable laws, regulations, and ethical standards.
+
+6.2 **No Guarantee of Obfuscation or Encryption**: The Software is provided “AS IS” with no guarantee, promise, or warranty of successful obfuscation, encryption, or any other outcome. BGGG disclaims any liability for the effectiveness, reliability, or security of the Software’s obfuscation or encryption features, to the maximum extent permitted by law.
+
+---
+
+### 7. Return or Destruction
+
+7.1 **Obligation**: Upon BGGG’s request, expiration of the Purpose, or termination of this Agreement, Recipient shall promptly:
+   - (a) Return or destroy all copies of Confidential Information (including in electronic or physical form);
+   - (b) Erase all Confidential Information from systems and devices; and
+   - (c) Provide written certification of destruction to https://github.com/BGGremlin-Group.
+
+7.2 **Retention for Legal Purposes**: Recipient may retain copies of Confidential Information as required by law or for archival purposes, provided such copies are securely stored and not used for any other purpose.
+
+---
+
+### 8. Term and Survival
+
+8.1 **Term**: This Agreement commences on the Effective Date (or upon downloading the Software, if earlier) and remains in effect for [2 years] or until terminated as provided herein.
+
+8.2 **Survival**: Recipient’s obligations regarding Confidential Information survive for [5 years] from the date of each disclosure, or indefinitely for trade secrets, to the maximum extent permitted by applicable law.
+
+8.3 **Termination**: Either party may terminate this Agreement for material breach not cured within thirty (30) days of written notice. BGGG may terminate immediately if Recipient violates Sections 2 (Obligations), 5 (No License or Ownership), or 6 (Anonymity and Non-Endorsement).
+
+---
+
+### 9. Remedies
+
+Recipient acknowledges that unauthorized use or disclosure of Confidential Information may cause irreparable harm to BGGG. BGGG shall be entitled to seek injunctive relief (without the need to post a bond) in addition to any other remedies available at law or in equity.
+
+---
+
+### 10. Operational Addendum Updates
+
+10.1 **Unilateral Updates**: BGGG may update operational, security, or process-oriented schedules, exhibits, or policies referenced in this Agreement (e.g., security controls, audit protocols) at any time, in its sole discretion, provided such updates do not materially reduce Recipient’s protection of Confidential Information. Updates are effective immediately upon publication, delivery, or being made reasonably available (e.g., via the Software UI, GitHub repository, Discord server, or email to [bggg-contact@neon-grid.io](mailto:bggg-contact@neon-grid.io)).
+
+10.2 **Acceptance**: Recipient’s continued possession, access to, or use of Confidential Information after such updates constitutes acceptance of the updated terms. If Recipient does not agree, Recipient must immediately cease use of Confidential Information and comply with Section 7 (Return or Destruction).
+
+10.3 **Core Obligations**: All other changes to this Agreement require a written amendment signed by both parties.
+
+---
+
+### 11. Governing Law and Venue
+
+11.1 **Governing Law**: This Agreement is governed by the substantive laws of Switzerland, excluding its conflict-of-law rules, and, where applicable, the laws of the United States (including federal intellectual property and export control laws). In case of conflict, Swiss law prevails unless US law is mandatory for specific provisions (e.g., export controls under EAR/ITAR).
+
+11.2 **Venue**: Any disputes arising out of or related to this Agreement shall be resolved exclusively in:
+   - The courts of Zurich, Switzerland, for matters governed by Swiss law; or
+   - The state or federal courts of Delaware, United States, for matters requiring US jurisdiction.
+   The parties irrevocably submit to the personal jurisdiction and venue of these courts. No arbitration is permitted.
+
+---
+
+### 12. Notices
+
+All notices under this Agreement must be in writing and delivered to BGGG via:
+- (i) Email to https://github.com/BGGremlin-Group with confirmation of receipt;
+- (ii) A GitHub issue or pull request comment in the repository at [https://github.com/BGGremlin-Group/Ob-Pro](https://github.com/BGGremlin-Group/Ob-Pro/); or
+- (iii) A direct message on the BGGG Discord server (contact BGGG for server details).
+Recipient must provide a valid email address for notices in any Order Form/SOW or upon request.
+
+---
+
+### 13. Miscellaneous
+
+13.1 **Entire Agreement**: This Agreement, together with any referenced schedules, exhibits, or Order Forms/SOWs, constitutes the entire agreement between the parties regarding the subject matter and supersedes all prior or contemporaneous agreements.
+
+13.2 **Order of Precedence**: In case of conflict, a signed Order Form/SOW prevails over this Agreement, which prevails over any schedules or exhibits.
+
+13.3 **Assignment**: Recipient may not assign or transfer this Agreement without BGGG’s prior written consent, which may be requested via [bggg-contact@neon-grid.io](mailto:bggg-contact@neon-grid.io). Any prohibited assignment is null and void.
+
+13.4 **Severability**: If any provision is held invalid or unenforceable, the remaining provisions remain in full force.
+
+13.5 **No Waiver**: Failure to enforce any provision does not constitute a waiver of that or any other provision.
+
+13.6 **Force Majeure**: Neither party is liable for delays or failures due to causes beyond their reasonable control, except for payment obligations.
+
+---
+
+### Signatures
+
+**IN WITNESS WHEREOF**, the parties acknowledge that downloading the Software constitutes Recipient’s irrevocable acceptance of this Agreement as of the Effective Date or the date of download, whichever is earlier.
+
+**BG Gremlin Group**  
+By: _______________________________  
+Name: _____________________________  
+Title: _____________________________  
+Date: _____________________________  
+
+**Recipient**  
+By downloading the Software, Recipient agrees to be bound by this Agreement.  
+By: _______________________________  
+Name: _____________________________  
+Title: _____________________________  
+Date: _____________________________  
+
+---
+
+### Schedule A: Minimum Security Controls
+
+Recipient shall implement the following minimum safeguards to protect Confidential Information:
+- **Multi-Factor Authentication (MFA)**: Required for all administrative access to systems storing Confidential Information.
+- **Encryption**: Store License Keys and Confidential Information encrypted at rest and in transit (e.g., AES-256 or equivalent).
+- **Access Controls**: Implement role-based access controls (RBAC) to limit access to Authorized Users only.
+- **Logging**: Maintain access logs with user, IP, timestamp, and action details, retained for at least 12 months.
+- **Patch Management**: Apply security patches to systems within 30 days of release.
+- **Key Rotation**: Rotate cryptographic keys every 90 days or upon suspected compromise.
+- **Incident Response**: Notify BGGG within 24 hours of any suspected or actual unauthorized access or disclosure via [bggg-contact@neon-grid.io](mailto:bggg-contact@neon-grid.io).
+
+> **Note**: BGGG may update this Schedule per Section 10 (Operational Addendum Updates).
+
+---
+
+> **Cyberpunk Flair**  
+> In the pulsing neon void of the digital sprawl, downloading Ob-Pro 5.0 binds you to this NDA, a contract forged in code by the BGGG. Guard the secrets—source, glyphs, keys—or face the courts of Zurich and Delaware. BGGG stands neutral: use or misuse, success or failure, it’s on you. Stay sharp in this encrypted underworld! 😎
+
+---
+
+## Revised Ob-Pro 5.0 README
+
+Below is the updated **README**, reflecting the online-only structure (no physical address, contact via email/GitHub/Discord), universal consent by download, dual jurisdiction (Zurich and Delaware courts, no arbitration), and the anonymity clause. All original sections, tables, walkthroughs, and cyberpunk flair are retained.
+
+---
+
+# Ob-Pro 5.0 README
+
+⚖️ **Legal Notice**  
+Ob-Pro 5.0 is proprietary software licensed under the **BG Gremlin Group License v1.0 (BGGG License v1.0)** by BG Gremlin Group (“BGGG”), a Swiss GmbH operating exclusively online, contactable via [bggg-contact@neon-grid.io](mailto:bggg-contact@neon-grid.io) or [https://github.com/yourusername/ob-pro-5.0](https://github.com/yourusername/ob-pro-5.0). By downloading the Software, you irrevocably agree to be bound by the BGGG License v1.0 and the associated Non-Disclosure Agreement (NDA) in full, as these agreements are universally applicable to all who obtain the Software. Use is strictly limited to Authorized Users as defined in the License. Reverse engineering, redistribution, publication, or modification is prohibited unless expressly permitted in writing by BGGG. The Software is provided “AS IS” with no warranties, guarantees, or promises of successful obfuscation or encryption. BGGG does not endorse any use or misuse of the Software, and Licensee is solely responsible for all outcomes and legal compliance. BGGG disclaims all liability for damages, including indirect, incidental, or consequential damages, to the maximum extent permitted by law.  
+
+**Contract Changes**: The License, NDA, and all terms governing Ob-Pro 5.0 may be changed, updated, or replaced at any time, without prior notice, at the sole discretion of BGGG, to the maximum extent permitted by applicable law. By downloading, possessing, or using the Software after any change, you agree to the then-current terms in full.  
+
+**Full License and NDA**: See [LICENSE](LICENSE), [NDA](NDA.md).
