@@ -1,0 +1,43 @@
+{
+  "//": "Cipher rules for Ob-Pro 5.0 text obfuscation. Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA. See LICENSE.md and NDA.md.",
+  "ciphers": [
+    {
+      "name": "aes",
+      "mode": "CBC",
+      "key_length": 256,
+      "padding": "PKCS7",
+      "iterations": 100000
+    },
+    {
+      "name": "chacha20",
+      "nonce_length": 12,
+      "key_length": 256
+    },
+    {
+      "name": "rsa",
+      "key_size": 2048,
+      "padding": "OAEP",
+      "hash_algorithm": "SHA256"
+    },
+    {
+      "name": "polybius",
+      "grid_size": 5,
+      "wordlist": "config/obf_list1.json",
+      "use_numbers": true
+    },
+    {
+      "name": "substitution",
+      "wordlist": "config/obf_list2.json",
+      "case_sensitive": false
+    }
+  ],
+  "layering": {
+    "default_order": ["polybius", "substitution", "aes", "chacha20"],
+    "max_layers": 4,
+    "randomize_order": false
+  },
+  "error_handling": {
+    "retry_attempts": 3,
+    "log_errors": true
+  }
+}
