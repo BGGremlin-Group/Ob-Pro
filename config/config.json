@@ -1,0 +1,47 @@
+{
+  "//": "Configuration for Ob-Pro 5.0. Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA. See LICENSE.md and NDA.md.",
+  "theme": {
+    "gui": "dark",
+    "cli": "default",
+    "accessibility": {
+      "colorblind_mode": false,
+      "vision_impaired_mode": false,
+      "high_contrast": true
+    }
+  },
+  "grid_size": 5,
+  "obfuscation": {
+    "default_level": "high",
+    "cipher_layers": ["aes", "chacha20", "rsa", "polybius"],
+    "wordlists": ["obf_list1.json", "obf_list2.json"],
+    "special_chars": true,
+    "quadrant_mode": {
+      "enabled": true,
+      "quadrants": 4
+    }
+  },
+  "image_processing": {
+    "steganography": {
+      "enabled": true,
+      "bit_depth": 2
+    },
+    "ocr": {
+      "enabled": true,
+      "tesseract_path": "/usr/bin/tesseract"
+    },
+    "output_formats": ["png", "pdf", "qrcode", "barcode"]
+  },
+  "font_creation": {
+    "default_font": "custom_obpro.ttf",
+    "output_directory": "data/fonts/"
+  },
+  "cloud": {
+    "enabled": true,
+    "save_path": "data/cloud/",
+    "link_format": "obpro://cloud/"
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "obpro.log"
+  }
+}
