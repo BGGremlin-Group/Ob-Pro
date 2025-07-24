@@ -1,0 +1,40 @@
+{
+  "//": "Font generation settings for Ob-Pro 5.0. Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA. See LICENSE.md and NDA.md.",
+  "font_settings": {
+    "name": "ObProCustom",
+    "format": "ttf",
+    "output_directory": "data/fonts/",
+    "font_size": 16,
+    "baseline": 0
+  },
+  "glyphs": [
+    {
+      "char": "a",
+      "unicode": "U+E000",
+      "path": "data/fonts/glyphs/a.svg"
+    },
+    {
+      "char": "b",
+      "unicode": "U+E001",
+      "path": "data/fonts/glyphs/b.svg"
+    },
+    {
+      "char": "c",
+      "unicode": "U+E002",
+      "path": "data/fonts/glyphs/c.svg"
+    }
+  ],
+  "generator": {
+    "tool": "fontforge",
+    "scale_factor": 1.0,
+    "kerning": 10
+  },
+  "export_options": {
+    "embed_metadata": true,
+    "metadata": {
+      "name": "Ob-Pro 5.0 Custom Font",
+      "author": "BG Gremlin Group",
+      "license": "BGGG License v1.0"
+    }
+  }
+}
