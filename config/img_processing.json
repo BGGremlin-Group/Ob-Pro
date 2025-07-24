@@ -1,0 +1,49 @@
+{
+  "//": "Image processing settings for Ob-Pro 5.0. Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA. See LICENSE.md and NDA.md.",
+  "steganography": {
+    "enabled": true,
+    "bit_depth": 2,
+    "channels": ["red", "green", "blue"],
+    "max_image_size": [1920, 1080],
+    "output_directory": "data/output/"
+  },
+  "ocr": {
+    "enabled": true,
+    "tesseract_path": "/usr/bin/tesseract",
+    "languages": ["eng"],
+    "preprocessing": {
+      "grayscale": true,
+      "threshold": 128,
+      "resize_factor": 1.5
+    }
+  },
+  "output_formats": [
+    {
+      "type": "png",
+      "compression": 9,
+      "dpi": 300
+    },
+    {
+      "type": "pdf",
+      "metadata": {
+        "title": "Ob-Pro 5.0 Output",
+        "author": "BG Gremlin Group"
+      }
+    },
+    {
+      "type": "qrcode",
+      "version": 1,
+      "error_correction": "H"
+    },
+    {
+      "type": "barcode",
+      "format": "CODE128"
+    }
+  ],
+  "watermark": {
+    "enabled": false,
+    "text": "Ob-Pro 5.0",
+    "opacity": 0.5,
+    "position": "bottom-right"
+  }
+}
