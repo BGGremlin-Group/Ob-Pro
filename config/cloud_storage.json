@@ -1,0 +1,28 @@
+{
+  "//": "Cloud storage settings for Ob-Pro 5.0. Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA. See LICENSE.md and NDA.md.",
+  "providers": [
+    {
+      "name": "obpro_cloud",
+      "enabled": true,
+      "base_url": "https://cloud.obpro.io",
+      "api_key": "placeholder_key",
+      "upload_directory": "data/cloud/"
+    }
+  ],
+  "sharing": {
+    "link_format": "obpro://cloud/",
+    "expire_after_days": 30,
+    "max_downloads": 10,
+    "encrypt_links": true
+  },
+  "sync": {
+    "auto_upload": false,
+    "auto_download": false,
+    "max_file_size_mb": 100
+  },
+  "security": {
+    "encryption": "aes-256-cbc",
+    "key_storage": "local",
+    "key_file": "data/cloud/obpro.key"
+  }
+}
