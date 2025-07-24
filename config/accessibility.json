@@ -1,0 +1,44 @@
+{
+  "//": "Accessibility settings for Ob-Pro 5.0 GUI/CLI. Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA. See LICENSE.md and NDA.md.",
+  "profiles": [
+    {
+      "name": "default",
+      "background_color": "#1C2526",
+      "text_color": "#C7D6D5",
+      "font_size": 14,
+      "font_family": "Arial"
+    },
+    {
+      "name": "colorblind",
+      "background_color": "#000000",
+      "text_color": "#FFFFFF",
+      "font_size": 16,
+      "font_family": "Arial",
+      "colorblind_filters": {
+        "protanopia": true,
+        "deuteranopia": false,
+        "tritanopia": false
+      }
+    },
+    {
+      "name": "vision_impaired",
+      "background_color": "#FFFFFF",
+      "text_color": "#000000",
+      "font_size": 20,
+      "font_family": "Arial Black",
+      "high_contrast": true
+    }
+  ],
+  "default_profile": "default",
+  "audio_feedback": {
+    "enabled": false,
+    "voice": "en-US",
+    "speed": 1.0
+  },
+  "keyboard_shortcuts": {
+    "obfuscate": "Ctrl+O",
+    "decrypt": "Ctrl+D",
+    "export": "Ctrl+E",
+    "quit": "Ctrl+Q"
+  }
+}
