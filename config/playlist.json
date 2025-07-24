@@ -1,0 +1,28 @@
+{
+  "//": "Playlist for Ob-Pro 5.0 GUI. Copyright (c) 2025 BG Gremlin Group. Subject to BGGG License v1.0 and NDA. See LICENSE.md and NDA.md.",
+  "tracks": [
+    {
+      "name": "Neon Grid",
+      "path": "data/music/neon_grid.mp3",
+      "artist": "Cyberpunk Collective",
+      "duration": "180"
+    },
+    {
+      "name": "Cryptic Pulse",
+      "path": "data/music/cryptic_pulse.mp3",
+      "artist": "Shadow Synth",
+      "duration": "240"
+    },
+    {
+      "name": "Enigma Drift",
+      "path": "data/music/enigma_drift.mp3",
+      "artist": "Neon Codex",
+      "duration": "210"
+    }
+  ],
+  "settings": {
+    "loop": true,
+    "shuffle": false,
+    "volume": 0.5
+  }
+}
